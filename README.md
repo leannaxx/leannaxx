@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @leannaxx
+- 👀 I’m interested in ur mom
+- 🌱 I’m currently learning python, c and pogchamps
