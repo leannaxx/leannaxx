@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @leannaxx
+- 👋 Hi, I’m Leanna
 - 👀 I’m interested in 
-- 🌱 I’m currently learning python, c, javascript and kotlin
+- 🌱 I’m currently learning python, c, javascript, java and kotlin
