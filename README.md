@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Leanna
-- 👀 I’m interested in 
-- 🌱 I’m currently learning python, c, javascript, java and kotlin
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
